@@ -4,13 +4,13 @@ Welcome to my portfolio! I'm a professional video editor specializing in craftin
 
 ---
 
+## 🌐 **[→ VISIT MY PORTFOLIO: seifelhdad.com](https://seifelhdad.com)**
+
+---
+
 ## 🎬 **My Work**
 
-Visit my portfolio to see my latest projects:
-
-### **[→ View My Portfolio](https://seifelhdad.com)**
-
-#### Work Categories:
+### Work Categories:
 - **[📢 Advertisements & Commercials](https://seifelhdad.com#work)** - Professional ad edits and commercial videos
 - **[📱 Social Media Content](https://seifelhdad.com#work)** - Reels, TikToks, and engaging short-form videos
 - **[🎬 Event Coverage](https://seifelhdad.com#work)** - Live events, concerts, and performances
@@ -37,32 +37,25 @@ Visit my portfolio to see my latest projects:
 
 ---
 
-## 🔗 **Connect With Me**
+## 🔗 **Quick Links**
 
-### **Email**
-📧 [seifelden625@gmail.com](mailto:seifelden625@gmail.com)
-
-### **Phone**
-📞 [+20 102 008 0936](tel:+201020080936)
-
-### **Social Media**
-- 💼 [LinkedIn](https://www.linkedin.com/in/seif-elhdad-9b8906257) - Professional Profile
-- 📸 **Instagram** - Social Media & Behind-the-Scenes
-- 🎨 **Behance** - Design & Motion Work
-- 🎥 **YouTube** - Full Projects & Tutorials
-
-### **Location**
-📍 Nozha, Cairo · Egypt
+| Platform | Link |
+|----------|------|
+| 🌐 **Portfolio** | **[seifelhdad.com](https://seifelhdad.com)** |
+| 💼 **LinkedIn** | [linkedin.com/in/seif-elhdad](https://www.linkedin.com/in/seif-elhdad-9b8906257) |
+| 📧 **Email** | [seifelden625@gmail.com](mailto:seifelden625@gmail.com) |
+| 📞 **Phone** | [+20 102 008 0936](tel:+201020080936) |
+| 📍 **Location** | Nozha, Cairo · Egypt |
 
 ---
 
-## 📝 **Get In Touch**
+## 💬 **Get In Touch**
 
-Have a project in mind? **[Contact me through my portfolio](https://seifelhdad.com#contact)** or reach out directly:
+Have a project in mind? I'm always available for collaborations and inquiries.
 
-- **Quick Inquiry?** Send me an email
-- **Want to call?** Available for phone consultations
-- **Need a quote?** Fill out the contact form on my site
+- **Quick Message?** → [seifelden625@gmail.com](mailto:seifelden625@gmail.com)
+- **Phone Call?** → [+20 102 008 0936](tel:+201020080936)
+- **Contact Form?** → [seifelhdad.com/contact](https://seifelhdad.com#contact)
 
 ---
 
@@ -78,24 +71,15 @@ This portfolio is built with:
 
 ## 📄 **About This Repository**
 
-This repository contains the source code for my professional video editing portfolio website hosted at **[seifelhdad.com](https://seifelhdad.com)**.
+This repository contains the source code for my professional video editing portfolio website.
 
-**Features:**
+**Key Features:**
 - ⚡ Fully responsive design (mobile, tablet, desktop)
 - 🎨 Modern UI with gradient animations
 - 🎥 Interactive video gallery system
 - 📱 Touch-friendly interface
 - ♿ Accessible navigation
 - 🚀 Smooth scroll animations & reveals
-
----
-
-## 📬 **Latest Updates**
-
-- ✨ New portfolio site launched with interactive galleries
-- 🤖 Added AI video generation services
-- 📱 Expanded social media content services
-- 🎬 Showcasing 80+ completed projects
 
 ---
 
